@@ -39,15 +39,58 @@ I am an **Informatics Engineering student at STT Terpadu Nurul Fikri** with an i
 
 </div>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sholihin999&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Muhamad Solihin GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholihin999&layout=compact&hide_border=true&theme=transparent" alt="Muhamad Solihin Most Used Languages" />
+
+  <!-- GitHub Streak -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=sholihin999&theme=tokyonight&hide_border=true&background=00000000"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=sholihin999&theme=default&hide_border=true&background=00000000"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=sholihin999&theme=default&hide_border=true&background=00000000"
+      alt="Muhamad Solihin GitHub Streak"
+      width="65%"
+    />
+  </picture>
+
+  <br><br>
+
+  <!-- Contribution Activity Graph -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sholihin999&bg_color=00000000&color=8B5CF6&line=22D3EE&point=10B981&area=true&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=sholihin999&bg_color=00000000&color=2563EB&line=7C3AED&point=059669&area=true&hide_border=true"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=sholihin999&bg_color=00000000&color=2563EB&line=7C3AED&point=059669&area=true&hide_border=true"
+      alt="Muhamad Solihin GitHub Activity Graph"
+      width="100%"
+    />
+  </picture>
+
 </div>
 
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sholihin999&hide_border=true&theme=transparent" alt="Muhamad Solihin GitHub Streak" />
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sholihin999&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
+    alt="Muhamad Solihin GitHub Trophies"
+    width="100%"
+  />
+
 </div>
 
 ## 🚀 Featured Interests
