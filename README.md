@@ -73,34 +73,77 @@ I am an **Informatics Engineering student at STT Terpadu Nurul Fikri** with an i
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=sholihin999&bg_color=00000000&color=2563EB&line=7C3AED&point=059669&area=true&hide_border=true"
     />
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=sholihin999&bg_color=00000000&color=2563EB&line=7C3AED&point=059669&area=true&hide_border=true"
-      alt="Muhamad Solihin GitHub Activity Graph"
-      width="100%"
-    />
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sholihin999&bg_color=00000000&color=2563EB&line=7C3AED&point=059669&area=true&hide_border=true&height=260"
+  alt="Muhamad Solihin GitHub Activity Graph"
+  width="100%"
+/>
   </picture>
 
 </div>
 
-## 🏆 GitHub Achievements
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sholihin999&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
-    alt="Muhamad Solihin GitHub Trophies"
-    width="100%"
-  />
+### 🪑 Empty Seat Detection
 
-</div>
+Computer vision project for detecting empty and occupied classroom seats using YOLO11.
 
-## 🚀 Featured Interests
+**Technology:** Python, YOLO, Roboflow, OpenCV
 
-```text
-Artificial Intelligence  ── Machine Learning, NLP, Computer Vision, RAG
-Software Development     ── Web Applications, Backend Development, APIs
-Data & Databases         ── Data Processing, MySQL, Model Evaluation
-Cybersecurity            ── Network Security, Virtualization, IDS Monitoring
-```
+<a href="LINK_REPOSITORY_KURSI">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚖️ ReguAI Chatbot
+
+A Retrieval-Augmented Generation chatbot for Indonesian government and digital law documents.
+
+**Technology:** Python, LangChain, FAISS, Hugging Face, Groq
+
+<a href="LINK_REPOSITORY_REGUAI">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌶️ Chili Price Prediction
+
+A web application for predicting chili prices using a Linear Regression model.
+
+**Technology:** Python, Scikit-learn, Pandas, Streamlit
+
+<a href="LINK_REPOSITORY_CABAI">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔗 LinkUp
+
+A collaborative platform that helps students find project partners across study programs.
+
+**Technology:** Laravel, React, MySQL
+
+<a href="LINK_REPOSITORY_LINKUP">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ## 📌 Current Goals
 
